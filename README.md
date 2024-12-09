@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🧠 Hakkımda
 
-<!--
-**gaffar-dulkadir/gaffar-dulkadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Teknik bir üniversitede Olasılık ve İstatistik, Veri Bilimi, Veri Madenciliği ve C++ üzerine eğitim alıyorum.
+💻 Yazılım geliştirici olarak veri analitiği, makine öğrenimi ve yazılım mühendisliği projeleri üzerinde çalışıyorum.
+🚀 Python ve C++ ile veri odaklı projeler geliştiriyor ve LangChain gibi yapay zeka araçlarıyla ilgileniyorum.
+🧠 Azure AI Prompt Flow, Selenium ve veri işleme süreçlerinde deneyimliyim.
+📊 Veri görselleştirme ve A3 boyutlu tasarımlar için Canva'yı aktif kullanıyorum.
+🔍 Teknik problemlere yaratıcı çözümler bulmayı seviyorum ve sürekli öğrenmeye devam ediyorum.
 
-Here are some ideas to get you started:
+## 🔧 Kullandığım Teknolojiler:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programlama Dilleri: Python, C++
+- Veri Bilimi Araçları: Pandas, NumPy, Matplotlib, scikit-learn
+- Web Otomasyonu: Selenium
+- Yapay Zeka ve ML: LangChain,
