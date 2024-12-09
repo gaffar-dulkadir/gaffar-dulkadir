@@ -3,14 +3,14 @@
 
 ---
 
-## 🧠 Hakkımda  
+## 🧠 About Me  
 
-🎓 Teknik bir üniversitede Olasılık ve İstatistik, Veri Bilimi, Veri Madenciliği ve C++ üzerine eğitim alıyorum.  
-💻 Yazılım geliştirici olarak veri analitiği, makine öğrenimi ve yazılım mühendisliği projeleri üzerinde çalışıyorum.  
-🚀 Python ve C++ ile veri odaklı projeler geliştiriyor ve LangChain gibi yapay zeka araçlarıyla ilgileniyorum.  
-🧠 Azure AI Prompt Flow, Selenium ve veri işleme süreçlerinde deneyimliyim.  
-📊 Veri görselleştirme ve A3 boyutlu tasarımlar için Canva'yı aktif kullanıyorum.  
-🔍 Teknik problemlere yaratıcı çözümler bulmayı seviyorum ve sürekli öğrenmeye devam ediyorum.  
+🎓 I’m studying Probability and Statistics, Data Science, Data Mining, and C++ at a technical university.  
+💻 As a software developer, I work on data analytics, machine learning, and software engineering projects.  
+🚀 I develop data-driven projects using Python and C++ while exploring AI tools like LangChain.  
+🧠 Experienced in Azure AI Prompt Flow, Selenium, and data processing pipelines.  
+📊 Actively using Canva for data visualization and A3-sized design projects.  
+🔍 I enjoy solving technical problems creatively and continuously learning new technologies.  
 
 ---
 
@@ -32,15 +32,16 @@
 
 ---
 
-## 🔧 **Kullandığım Teknolojiler:**  
+## 🔧 **Technologies I Use:**  
 
-- **Programlama Dilleri:** Python, C++  
-- **Veri Bilimi Araçları:** Pandas, NumPy, Matplotlib, scikit-learn  
-- **Web Otomasyonu:** Selenium  
-- **Yapay Zeka ve ML:** LangChain, OpenAI, Hugging Face, Azure AI, AWS  
-- **Veri & Veritabanları:** PostgreSQL  
-- **Tasarım & Prototipleme:** Framer, Figma, Canva (A3 format)  
-- **Sürüm Kontrol:** Git, GitHub  
+- **Programming Languages:** Python, C++  
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, scikit-learn  
+- **Web Automation:** Selenium  
+- **AI & ML:** LangChain, OpenAI, Hugging Face, Azure AI, AWS  
+- **Data & Databases:** PostgreSQL  
+- **Design & Prototyping:** Framer, Figma, Canva (A3 format)  
+- **Version Control:** Git, GitHub  
+
 
 ---
 
