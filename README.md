@@ -7,7 +7,7 @@
 
 🎓 I’m studying Probability and Statistics, Data Science, Data Mining, and C++ at a technical university.  
 💻 As a software developer, I work on data analytics, machine learning, and software engineering projects.  
-🚀 I develop data-driven projects using Python and C++ while exploring AI tools like LangChain.  
+🚀 I develop data-driven projects using Python while exploring AI tools like LangChain.  
 🧠 Experienced in Azure AI Prompt Flow, Selenium, and data processing pipelines.  
 📊 Actively using Canva for data visualization and A3-sized design projects.  
 🔍 I enjoy solving technical problems creatively and continuously learning new technologies.  
